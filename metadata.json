@@ -1,0 +1,7 @@
+{
+  "name": "VibeTrader - TastyTrade Options Analyzer",
+  "description": "An advanced options trading companion designed for the TastyTrade 20-delta philosophy. Analyze trade setups via screenshots, evaluate IV rank, and manage risk-reward ratios with Gemini-powered insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

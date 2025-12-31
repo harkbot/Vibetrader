@@ -1,0 +1,17 @@
+{
+  "name": "Vibetrader AI Options Analyst",
+  "short_name": "Vibetrader",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "Tactical TastyTrade Options Analysis & Journaling",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2534/2534151.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
